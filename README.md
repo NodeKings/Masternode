@@ -40,4 +40,14 @@ chmod 755 bwk.sh
 bash bwk.sh
 ```
 
+## GanjaCoin Installation
+
+```bash
+sudo apt-get install zip -y
+wget https://github.com/NodeKings/Masternode/raw/master/mrja.zip
+unzip mrja.zip
+chmod 755 mrja.sh
+bash mrja.sh
+```
+
 ## Remember to **Enter** you Password
