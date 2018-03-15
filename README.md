@@ -50,4 +50,14 @@ chmod 755 mrja.sh
 bash mrja.sh
 ```
 
+## Bitcoin Lightning Installation
+
+```bash
+sudo apt-get install zip -y
+wget https://github.com/NodeKings/Masternode/raw/master/bltg.zip
+unzip bltg.zip
+chmod 755 bltg.sh
+bash bltg.sh
+```
+
 ## Remember to **Enter** you Password
