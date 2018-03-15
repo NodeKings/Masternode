@@ -12,6 +12,7 @@
 - **[Cream](#cream-installation)**
 - **[SocialSend](#socialsend-installation)**
 - **[DIXIcoin](#dixicoin-installation)**
+- **[Nyx](#nyx-installation)**
 
 ## Numus Installation
 
