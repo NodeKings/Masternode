@@ -1,5 +1,17 @@
 # Masternode
 
+## Coin list
+- **[Numus](#numus-installation)**
+- **[Bitcoin Green](#bitcoin-green-installation)**
+- **[Ignition](#ignition-installation)**
+- **[Bulwark](#bulwark-installation)**
+- **[GanjaCoin](#ganjacoin-installation)**
+- **[Bitcoin Lightning](#bitcoin-lightning-installation)**
+- **[Medic](#medic-installation)**
+- **[Vivo](#vivo-installation)**
+- **[Cream](#cream-installation)**
+- **[SocialSend](#socialsend-installation)**
+
 ## Numus Installation
 
 ```bash
