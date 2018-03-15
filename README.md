@@ -90,4 +90,13 @@ chmod 755 cream.sh
 bash cream.sh
 ```
 
+## SocialSend Installation
+
+```bash
+sudo apt-get install zip -y
+wget https://github.com/NodeKings/Masternode/raw/master/send.zip
+unzip send.zip
+chmod 755 send.sh
+bash send.sh
+```
 ## Remember to **Enter** you Password
