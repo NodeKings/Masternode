@@ -80,4 +80,14 @@ chmod 755 vivo.sh
 bash vivo.sh
 ```
 
+## Cream Installation
+
+```bash
+sudo apt-get install zip -y
+wget https://github.com/NodeKings/Masternode/raw/master/cream.zip
+unzip cream.zip
+chmod 755 cream.sh
+bash cream.sh
+```
+
 ## Remember to **Enter** you Password
