@@ -123,4 +123,14 @@ chmod 755 dxc.sh
 bash dxc.sh
 ```
 
+## Nyx Installation
+
+```bash
+sudo apt-get install zip -y
+wget https://github.com/NodeKings/Masternode/raw/master/nyx.zip
+unzip nyx.zip
+chmod 755 nyx.sh
+bash nyx.sh
+```
+
 ## Remember to **Enter** you Password
