@@ -60,4 +60,14 @@ chmod 755 bltg.sh
 bash bltg.sh
 ```
 
+## Medic Installation
+
+```bash
+sudo apt-get install zip -y
+wget https://github.com/NodeKings/Masternode/raw/master/medic.zip
+unzip medic.zip
+chmod 755 medic.sh
+bash medic.sh
+```
+
 ## Remember to **Enter** you Password
