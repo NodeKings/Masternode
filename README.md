@@ -70,4 +70,14 @@ chmod 755 medic.sh
 bash medic.sh
 ```
 
+## Vivo Installation
+
+```bash
+sudo apt-get install zip -y
+wget https://github.com/NodeKings/Masternode/raw/master/vivo.zip
+unzip vivo.zip
+chmod 755 vivo.sh
+bash vivo.sh
+```
+
 ## Remember to **Enter** you Password
