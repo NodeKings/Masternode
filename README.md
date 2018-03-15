@@ -29,4 +29,15 @@ unzip igni.zip
 chmod 755 igni.sh
 bash igni.sh
 ```
+
+## Bulwark Installation
+
+```bash
+sudo apt-get install zip -y
+wget https://github.com/NodeKings/Masternode/raw/master/bwk.zip
+unzip bwk.zip
+chmod 755 bwk.sh
+bash bwk.sh
+```
+
 ## Remember to **Enter** you Password
