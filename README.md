@@ -11,6 +11,7 @@
 - **[Vivo](#vivo-installation)**
 - **[Cream](#cream-installation)**
 - **[SocialSend](#socialsend-installation)**
+- **[DIXIcoin](#dixicoin-installation)**
 
 ## Numus Installation
 
@@ -111,4 +112,15 @@ unzip send.zip
 chmod 755 send.sh
 bash send.sh
 ```
+
+## DIXIcoin Installation
+
+```bash
+sudo apt-get install zip -y
+wget https://github.com/NodeKings/Masternode/raw/master/dxc.zip
+unzip dxc.zip
+chmod 755 dxc.sh
+bash dxc.sh
+```
+
 ## Remember to **Enter** you Password
