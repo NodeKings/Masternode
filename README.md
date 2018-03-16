@@ -12,6 +12,7 @@
 - **[Cream](#cream-installation)**
 - **[SocialSend](#socialsend-installation)**
 - **[DIXIcoin](#dixicoin-installation)**
+- **[Coin2Fly](#coin2fly-installation)**
 - **[Nyx](#nyx-installation)**
 - **[Escrow](#escrow-installation)**
 
@@ -123,6 +124,15 @@ wget https://github.com/NodeKings/Masternode/raw/master/dxc.zip
 unzip dxc.zip
 chmod 755 dxc.sh
 bash dxc.sh
+```
+## Coin2Fly Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/cfly.zip
+unzip cfly.zip
+chmod 755 cfly.sh
+bash cfly.sh
 ```
 
 ## Nyx Installation
