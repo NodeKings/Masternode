@@ -1,6 +1,8 @@
 # Masternode
 
 ## Coin list
+- **[Saros](#saros-installation)**
+- **[Absolute](#absolute-installation)**
 - **[Numus](#numus-installation)**
 - **[Bitcoin Green](#bitcoin-green-installation)**
 - **[Ignition](#ignition-installation)**
@@ -15,6 +17,27 @@
 - **[Coin2Fly](#coin2fly-installation)**
 - **[Nyx](#nyx-installation)**
 - **[Escrow](#escrow-installation)**
+- **[Artax](#artax-installation)**
+
+## Saros Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/saros.zip
+unzip saros.zip
+chmod 755 saros_v1.sh
+bash saros_v1.sh
+```
+
+## Absolute Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/abs.zip
+unzip abs.zip
+chmod 755 abs_v1.sh
+bash abs_v1.sh
+```
 
 ## Numus Installation
 
@@ -153,5 +176,15 @@ wget https://github.com/NodeKings/Masternode/raw/master/escrow.zip
 unzip escrow.zip
 chmod 755 escrow.sh
 bash escrow.sh
+```
+
+## Artax Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/artx.zip
+unzip artx.zip
+chmod 755 artx.sh
+bash artx.sh
 ```
 ## Remember to **Enter** you Password
