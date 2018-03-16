@@ -3,6 +3,10 @@
 ## Coin list
 - **[Saros](#saros-installation)**
 - **[Absolute](#absolute-installation)**
+- **[Omega](#omega-installation)**
+- **[Polis](#polis-installation)**
+- **[Rapture](#rapture-installation)**
+- **[Crowdcoin](#crowdcoin-installation)**
 - **[Numus](#numus-installation)**
 - **[Bitcoin Green](#bitcoin-green-installation)**
 - **[Ignition](#ignition-installation)**
@@ -37,6 +41,46 @@ wget https://github.com/NodeKings/Masternode/raw/master/abs.zip
 unzip abs.zip
 chmod 755 abs_v1.sh
 bash abs_v1.sh
+```
+
+## Omega Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/omega.zip
+unzip omega.zip
+chmod 755 omega_v1.sh
+bash omega_v1.sh
+```
+
+## Polis Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/polis.zip
+unzip polis.zip
+chmod 755 polis_v1.sh
+bash polis_v1.sh
+```
+
+## Rapture Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/rapture.zip
+unzip rapture.zip
+chmod 755 rapture_v1.sh
+bash rapture_v1.sh
+```
+
+## Crowdcoin Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/crc.zip
+unzip crc.zip
+chmod 755 crc_v1.sh
+bash crc_v1.sh
 ```
 
 ## Numus Installation
