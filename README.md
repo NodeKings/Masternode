@@ -13,6 +13,7 @@
 - **[SocialSend](#socialsend-installation)**
 - **[DIXIcoin](#dixicoin-installation)**
 - **[Nyx](#nyx-installation)**
+- **[Escrow](#escrow-installation)**
 
 ## Numus Installation
 
@@ -134,4 +135,13 @@ chmod 755 nyx.sh
 bash nyx.sh
 ```
 
+## Escrow Installation
+
+```bash
+sudo apt-get install zip -y
+wget https://github.com/NodeKings/Masternode/raw/master/escrow.zip
+unzip escrow.zip
+chmod 755 escrow.sh
+bash escrow.sh
+```
 ## Remember to **Enter** you Password
