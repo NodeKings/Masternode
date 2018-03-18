@@ -22,6 +22,7 @@
 - **[Nyx](#nyx-installation)**
 - **[Escrow](#escrow-installation)**
 - **[Artax](#artax-installation)**
+- **[Zaca](#zaca-installation)**
 
 ## Saros Installation
 
@@ -231,4 +232,15 @@ unzip artx.zip
 chmod 755 artx.sh
 bash artx.sh
 ```
+
+## Zaca Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/zaca.zip
+unzip zaca.zip
+chmod 755 zaca_v1.sh
+bash zaca_v1.sh
+```
+
 ## Remember to **Enter** you Password
