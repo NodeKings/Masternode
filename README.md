@@ -23,6 +23,7 @@
 - **[Escrow](#escrow-installation)**
 - **[Artax](#artax-installation)**
 - **[Zaca](#zaca-installation)**
+- **[Stipend](#stipend-installation)**
 
 ## Saros Installation
 
@@ -243,4 +244,13 @@ chmod 755 zaca.sh
 bash zaca.sh
 ```
 
+## Bulwark Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/spd.zip
+unzip spd.zip
+chmod 755 spd.sh
+bash spd.sh
+```
 ## Remember to **Enter** you Password
