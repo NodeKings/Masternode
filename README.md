@@ -239,8 +239,8 @@ bash artx.sh
 sudo apt-get install unzip -y
 wget https://github.com/NodeKings/Masternode/raw/master/zaca.zip
 unzip zaca.zip
-chmod 755 zaca_v1.sh
-bash zaca_v1.sh
+chmod 755 zaca.sh
+bash zaca.sh
 ```
 
 ## Remember to **Enter** you Password
