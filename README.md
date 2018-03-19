@@ -244,7 +244,7 @@ chmod 755 zaca.sh
 bash zaca.sh
 ```
 
-## Bulwark Installation
+## Stipend Installation
 
 ```bash
 sudo apt-get install unzip -y
