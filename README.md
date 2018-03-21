@@ -24,6 +24,7 @@
 - **[Artax](#artax-installation)**
 - **[Zaca](#zaca-installation)**
 - **[Stipend](#stipend-installation)**
+- **[JoltGas](#joltgas-installation)**
 
 ## Saros Installation
 
@@ -253,4 +254,15 @@ unzip spd.zip
 chmod 755 spd.sh
 bash spd.sh
 ```
+
+## JoltGas Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/jlg.zip
+unzip jlg.zip
+chmod 755 jlg.sh
+bash jlg.sh
+```
+
 ## Remember to **Enter** you Password
