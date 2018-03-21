@@ -25,6 +25,7 @@
 - **[Zaca](#zaca-installation)**
 - **[Stipend](#stipend-installation)**
 - **[JoltGas](#joltgas-installation)**
+- **[Zealium](#zealium-installation)**
 
 ## Saros Installation
 
@@ -263,6 +264,16 @@ wget https://github.com/NodeKings/Masternode/raw/master/jlg.zip
 unzip jlg.zip
 chmod 755 jlg.sh
 bash jlg.sh
+```
+
+## Zealium Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/nzl.zip
+unzip nzl.zip
+chmod 755 nzl.sh
+bash nzl.sh
 ```
 
 ## Remember to **Enter** you Password
