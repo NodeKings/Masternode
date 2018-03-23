@@ -26,6 +26,8 @@
 - **[Stipend](#stipend-installation)**
 - **[JoltGas](#joltgas-installation)**
 - **[Zealium](#zealium-installation)**
+- **[Cropcoin](#cropcoin-installation)**
+- **[Apollon](#apollon-installation)**
 
 ## Saros Installation
 
@@ -275,5 +277,25 @@ unzip nzl.zip
 chmod 755 nzl.sh
 bash nzl.sh
 ```
+
+## CropCoin Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/crop.zip
+unzip crop.zip
+chmod 755 crop.sh
+bash crop.sh
+```
+
+## Apollon Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/xap.zip
+unzip xap.zip
+chmod 755 xap.sh
+bash xap.sh
+
 
 ## Remember to **Enter** you Password
