@@ -298,4 +298,4 @@ chmod 755 xap.sh
 bash xap.sh
 
 
-## Remember to **Enter** you Password
+## Remember to Enter you Password
