@@ -296,6 +296,6 @@ wget https://github.com/NodeKings/Masternode/raw/master/xap.zip
 unzip xap.zip
 chmod 755 xap.sh
 bash xap.sh
+```
 
-
-## Remember to Enter you Password
+## Remember to **Enter** you Password
