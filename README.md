@@ -28,6 +28,7 @@
 - **[Zealium](#zealium-installation)**
 - **[Cropcoin](#cropcoin-installation)**
 - **[Apollon](#apollon-installation)**
+- **[Wagerr](#wagerr-installation)**
 
 ## Saros Installation
 
@@ -298,4 +299,13 @@ chmod 755 xap.sh
 bash xap.sh
 ```
 
+## Wagerr Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/wgr.zip
+unzip xap.zip
+chmod 755 wgr.sh
+bash wgr.sh
+```
 ## Remember to **Enter** you Password
