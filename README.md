@@ -29,6 +29,8 @@
 - **[Cropcoin](#cropcoin-installation)**
 - **[Apollon](#apollon-installation)**
 - **[Wagerr](#wagerr-installation)**
+- **[Monetary Unit](#monetary-unit-installation)**
+- **[Alqo](#alqo-installation)**
 
 ## Saros Installation
 
@@ -308,4 +310,25 @@ unzip wgr.zip
 chmod 755 wgr.sh
 bash wgr.sh
 ```
+
+## Monetary Unit Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/mue.zip
+unzip mue.zip
+chmod 755 mue.sh
+bash mue.sh
+```
+
+## ALQO Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/alqo.zip
+unzip alqo.zip
+chmod 755 alqo.sh
+bash alqo.sh
+```
+
 ## Remember to **Enter** you Password
