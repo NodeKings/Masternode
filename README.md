@@ -31,6 +31,7 @@
 - **[Wagerr](#wagerr-installation)**
 - **[Monetary Unit](#monetary-unit-installation)**
 - **[Alqo](#alqo-installation)**
+- **[GoByte](#gobyte-installation)**
 
 ## Saros Installation
 
@@ -330,5 +331,16 @@ unzip alqo.zip
 chmod 755 alqo.sh
 bash alqo.sh
 ```
+
+## GoByte Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/gbx.zip
+unzip gbx.zip
+chmod 755 gbx.sh
+bash gbx.sh
+```
+
 
 ## Remember to **Enter** you Password
