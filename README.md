@@ -32,6 +32,7 @@
 - **[Monetary Unit](#monetary-unit-installation)**
 - **[Alqo](#alqo-installation)**
 - **[GoByte](#gobyte-installation)**
+- **[Vyigrat](#vyigrat-installation)**
 
 ## Saros Installation
 
@@ -340,6 +341,16 @@ wget https://github.com/NodeKings/Masternode/raw/master/gbx.zip
 unzip gbx.zip
 chmod 755 gbx.sh
 bash gbx.sh
+```
+
+## Vyigrat Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/vyi.zip
+unzip vyi.zip
+chmod 755 vyi.sh
+bash vyi.sh
 ```
 
 
