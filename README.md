@@ -33,6 +33,7 @@
 - **[Alqo](#alqo-installation)**
 - **[GoByte](#gobyte-installation)**
 - **[Vyigrat](#vyigrat-installation)**
+- **[Airin](#airin-installation)**
 
 ## Saros Installation
 
@@ -351,6 +352,16 @@ wget https://github.com/NodeKings/Masternode/raw/master/vyi.zip
 unzip vyi.zip
 chmod 755 vyi.sh
 bash vyi.sh
+```
+
+## Airin Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/airin.zip
+unzip airin.zip
+chmod 755 airin.sh
+bash airin.sh
 ```
 
 
