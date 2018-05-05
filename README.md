@@ -34,6 +34,7 @@
 - **[GoByte](#gobyte-installation)**
 - **[Vyigrat](#vyigrat-installation)**
 - **[Airin](#airin-installation)**
+- **[Muncoin](#muncoin-installation)**
 
 ## Saros Installation
 
@@ -364,5 +365,14 @@ chmod 755 airin.sh
 bash airin.sh
 ```
 
+## Muncoin Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/mun.zip
+unzip mun.zip
+chmod 755 mun.sh
+bash mun.sh
+```
 
 ## Remember to **Enter** you Password
