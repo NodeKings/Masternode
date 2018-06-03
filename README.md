@@ -35,6 +35,8 @@
 - **[Vyigrat](#vyigrat-installation)**
 - **[Airin](#airin-installation)**
 - **[Muncoin](#muncoin-installation)**
+- **[Utum](#utum-installation)**
+- **[Synx](#synx-installation)**
 
 ## Saros Installation
 
@@ -373,6 +375,26 @@ wget https://github.com/NodeKings/Masternode/raw/master/mun.zip
 unzip mun.zip
 chmod 755 mun.sh
 bash mun.sh
+```
+
+## Utum Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/utum.zip
+unzip utum.zip
+chmod 755 utum.sh
+bash utum.sh
+```
+
+## Synx Installation
+
+```bash
+sudo apt-get install unzip -y
+wget https://github.com/NodeKings/Masternode/raw/master/synx.zip
+unzip synx.zip
+chmod 755 synx.sh
+bash synx.sh
 ```
 
 ## Remember to **Enter** you Password
